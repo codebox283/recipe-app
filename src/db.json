@@ -1,0 +1,60 @@
+{
+    "recipes": [
+      {
+        "attributes_id": "1",
+        "name": "Spaghetti Carbonara",
+        "cookingTime": 20,
+        "serves": 2,
+        "category": "nonveg",
+        "recipeDescription": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "image": "https://example.com/spaghetti-carbonara.jpg"
+      },
+      {
+        "attributes_id": "2",
+        "name": "Vegetable Stir Fry",
+        "cookingTime": 15,
+        "serves": 4,
+        "category": "veg",
+        "recipeDescription": "A quick and easy stir-fry with a mix of fresh vegetables.",
+        "image": "https://example.com/vegetable-stir-fry.jpg"
+      },
+      {
+        "attributes_id": "3",
+        "name": "Chicken Tikka Masala",
+        "cookingTime": 30,
+        "serves": 3,
+        "category": "nonveg",
+        "recipeDescription": "Tender chicken pieces cooked in a spicy and creamy tomato sauce.",
+        "image": "https://example.com/chicken-tikka-masala.jpg"
+      },
+      {
+        "attributes_id": "4",
+        "name": "Caprese Salad",
+        "cookingTime": 10,
+        "serves": 2,
+        "category": "veg",
+        "recipeDescription": "A simple salad made with fresh mozzarella, tomatoes, basil, and olive oil.",
+        "image": "https://example.com/caprese-salad.jpg"
+      },
+      {
+        "attributes_id": "5",
+        "name": "Beef Tacos",
+        "cookingTime": 25,
+        "serves": 4,
+        "category": "nonveg",
+        "recipeDescription": "Spicy beef tacos served with fresh salsa and avocado.",
+        "image": "https://example.com/beef-tacos.jpg"
+      },
+      {
+        "attributes_id": "6",
+        "name": "Vegetable Curry",
+        "cookingTime": 40,
+        "serves": 4,
+        "category": "veg",
+        "recipeDescription": "A flavorful curry made with assorted vegetables and spices.",
+        "image": "https://example.com/vegetable-curry.jpg"
+      }
+    ],
+    "favorites": []
+  }
+  
